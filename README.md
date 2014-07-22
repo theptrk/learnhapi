@@ -4,6 +4,6 @@
 
 - Hapi does not allow conflicting routes!
 
-> New favorite error -> Error: New rout: 1 conflicts with existing: /
+> New favorite error -> Error: New route: / conflicts with existing: /
 
 - Helpers can be useful for templating
