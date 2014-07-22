@@ -1,0 +1,14 @@
+{
+  "name": "learnhapi",
+  "version": "0.0.0",
+  "description": "Repo to play with Hapi for first time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^6.2.0"
+  }
+}
